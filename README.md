@@ -1,4 +1,4 @@
-https://travis-ci.org/jyz97/hw-bdd-cucumber.svg?branch=master
+[![Build Status](https://travis-ci.org/jyz97/hw-bdd-cucumber.svg?branch=master)](https://travis-ci.org/jyz97/hw-bdd-cucumber)
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
